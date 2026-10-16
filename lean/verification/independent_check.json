@@ -1,0 +1,14 @@
+{
+  "status": "PASS: independent Python model (NOT a Lean compiler result)",
+  "base_blocks": 12,
+  "developed_blocks": 372,
+  "unique_developed_blocks": 372,
+  "triple_occurrences": 3720,
+  "unique_triples": 3720,
+  "duplicate_triples": 0,
+  "total_available_triples": 4495,
+  "triple_orbit_count": 145,
+  "used_orbit_resources": 120,
+  "lean_input_sha256": "f8b6fb35899b32171caf49921e003e4e5b6e4bea4ec0b88f50a784d92899966f",
+  "lean_resources_sha256": "15cf26ed8ed2abf055eb0c55c9c081ec96418ae083f0d933ee33e41676981ed3"
+}

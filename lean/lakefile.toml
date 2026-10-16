@@ -1,0 +1,9 @@
+name = "p2632"
+version = "0.2.0"
+defaultTargets = ["P2632", "ResourceCertificate"]
+
+[[lean_lib]]
+name = "P2632"
+
+[[lean_lib]]
+name = "ResourceCertificate"

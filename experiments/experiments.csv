@@ -1,0 +1,10 @@
+date_utc,method,seed,time_limit_seconds,observed,certification,log
+2026-10-16,known_9 replay,,,9,PASS Python direct,
+2026-10-16,one_exchange.py,,,10,PASS Python + C++ direct,
+2026-10-16,search.cpp,1261,70,12,best checkpoint verified; runtime wrapper timed out,search_1261.log
+2026-10-16,search2.cpp,90137,19,12,PASS independent; no optimality claim,search2_90137.log
+2026-10-16,search2.cpp,20261016,31,12,PASS independent; no optimality claim,search2_20261016.log
+2026-10-16,search_tabu.cpp,457122,18,best energy 3 for 13 selected rows,no 13 guarantee,tabu_457122.log
+2026-10-16,SciPy/HiGHS MILP,,36,best incumbent 10 at elapsed 30 s,terminated without proof,milp_36.log
+2026-10-16,local exact DFS with fixed >=4 of final 12,,2,no 13 in these neighborhoods,complete local verification; not global UNSAT,exact_local_d8.log
+2026-10-16,SAT CNF generator,,,13,correct encoding verified against 12 witness; not solved,

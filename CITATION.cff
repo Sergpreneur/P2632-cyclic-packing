@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: >-
+  If you use the twelve-block construction or its checking code,
+  please cite this repository and the associated working preprint.
+title: "A twelve-orbit cyclic 3-(31,5,1) packing: construction and verification code"
+type: software
+authors:
+  - family-names: Nefedov
+    given-names: Sergey
+    affiliation: "Moscow State University, Mathematics Department"
+version: 0.2.0
+date-released: 2026-10-16
+abstract: >-
+  Twelve explicit base blocks yielding a cyclic 3-(31,5,1) packing,
+  independent Python/C++ checks, a LaTeX preprint and candidate Lean 4
+  verification source. Lean compilation pending at preparation time.
